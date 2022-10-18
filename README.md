@@ -1,0 +1,1 @@
+# SOLIDdesignPrinciples_PlurasightNotes
